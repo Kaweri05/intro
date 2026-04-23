@@ -13,33 +13,32 @@ This project is a simple personal introduction website created using HTML. It in
 
 ## Technologies Used
 
-HTML
-Git and Github
+- HTML
+- Git and Github
 
 ---
 ## Project Structure
 
-```
-intro/
-│── index.html      # Home page
-│── about.html      # About me page
-│── contact.html    # Contact page
-```
+- Home page
+- About me page
+- Contact page
+
 ---
 
 ## 📸 Screenshots
 
 (![you can see my repository](<Screenshot 2026-04-18 113620.png>))
-
+---
 ## Purpose of Project
 
 This project is created for learning basic web development and understanding how to structure a simple website.
-
+---
 ##  Future Improvements
 
-Add CSS styling for better design
-Make website responsive
-Add JavaScript for interactivity
+- Add CSS styling for better design
+- Make website responsive
+- Add JavaScript for interactivity
+---
 
 ### Author
 
