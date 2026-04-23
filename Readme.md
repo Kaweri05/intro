@@ -6,10 +6,10 @@ This project is a simple personal introduction website created using HTML. It in
 
 ##  Features
 
- 🏠 Home page with introduction
- 👤 About page with personal details
- 📞 Contact page for communication
- 💻 Clean and simple design
+- 🏠 Home page with introduction
+- 👤 About page with personal details
+-  📞 Contact page for communication
+- 💻 Clean and simple design
 
 ## Technologies Used
 
